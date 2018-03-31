@@ -17,4 +17,4 @@ class Test_allure:
 
     @allure.step("我是测试步骤003")       #添加测试步骤
     def test_al3(self):
-        assert 1
+        assert 0
